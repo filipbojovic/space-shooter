@@ -12,5 +12,5 @@ The game "SpaceShooter" is an arcade game that simulates a battle between an air
 
 <div align="center">
   <h3>The last level against the Alien Leader</h3>
-  <img src='https://github.com/filipbojovic/Space-shooter/blob/filipbojovic-updating-readme-md/docs/last%20level.jpg'>
+  <img src='https://github.com/filipbojovic/Space-shooter/blob/master/docs/last%20level.jpg'>
 </div>
